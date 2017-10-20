@@ -1,5 +1,6 @@
-Segundo parcial HPC
+**Segundo Parcial HPC:**
 
+Presentado por:
 - Angie Vanessa Penagos Rios
 - Diego Alejandro Valencia
 - Daniela Zuluaga Ocampo 
